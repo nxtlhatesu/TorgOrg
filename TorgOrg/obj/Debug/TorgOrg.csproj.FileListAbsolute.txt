@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\TorgOrg\bin\Debug\TorgOrg.exe.config
+C:\Users\user\source\repos\TorgOrg\bin\Debug\TorgOrg.exe
+C:\Users\user\source\repos\TorgOrg\bin\Debug\TorgOrg.pdb
+C:\Users\user\source\repos\TorgOrg\obj\Debug\TorgOrg.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TorgOrg\obj\Debug\TorgOrg.Form1.resources
+C:\Users\user\source\repos\TorgOrg\obj\Debug\TorgOrg.Properties.Resources.resources
+C:\Users\user\source\repos\TorgOrg\obj\Debug\TorgOrg.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TorgOrg\obj\Debug\TorgOrg.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TorgOrg\obj\Debug\TorgOrg.exe
+C:\Users\user\source\repos\TorgOrg\obj\Debug\TorgOrg.pdb
+C:\Users\user\source\repos\TorgOrg\obj\Debug\TorgOrg.Form2.resources
+C:\Users\user\source\repos\TorgOrg\obj\Debug\TorgOrg.Form3.resources
+C:\Users\user\source\repos\TorgOrg\obj\Debug\TorgOrg.Form4.resources
+C:\Users\user\source\repos\TorgOrg\obj\Debug\TorgOrg.Form5.resources
+C:\Users\user\source\repos\TorgOrg\obj\Debug\TorgOrg.Form6.resources
+C:\Users\user\source\repos\TorgOrg\obj\Debug\TorgOrg.Form7.resources
+C:\Users\user\source\repos\TorgOrg\obj\Debug\TorgOrg.Form8.resources
